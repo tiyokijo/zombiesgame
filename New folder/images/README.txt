@@ -1,0 +1,1 @@
+This folder is for storing images used in the Snake Game, such as food icons or background images.

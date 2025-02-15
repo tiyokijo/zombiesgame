@@ -1,0 +1,1 @@
+This folder is for storing media files such as background music or sound effects for the Snake Game.
